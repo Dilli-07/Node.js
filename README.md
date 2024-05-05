@@ -1,1 +1,1 @@
-# Node.js
+# coding-project-template
